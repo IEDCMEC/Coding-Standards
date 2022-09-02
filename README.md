@@ -33,17 +33,17 @@
     - Use classNames everywhere. Do not use html tags to style.
     - Use flex boxes and media queries for making the contents responsive.
     - Avoid absolute positioning.
-    - Use BEM CSS convention of naming in css and we can avoid module.css since it’s really difficult. While naming classes try to include component names also 
+    - Use BEM CSS (https://scalablecss.com/bem-quickstart-guide/) convention of naming in css and we can avoid module.css since it’s really difficult. While naming classes try to include component names also 
     Eg: if we have a box in the faq section then we can name the className as faq__box rather than simply describing it as box
     - Avoid !important unless absolutely necessary.
     - Avoid inline styles unless necessary.
-    - While styling mui components try to make use of 'sx-props' methods rather than creating multiple 'divs' or explicit styling of classnames provided by the same.
+    - While styling Material UI components try to make use of 'sx-props' (https://mui.com/system/getting-started/the-sx-prop/) methods rather than creating multiple 'divs' or explicit styling of classnames provided by the same.
 
 5. Format of working:
     - Initially fork the repo and create a copy in your respective account.
     - Clone the repository to your local machine.
     - Make the changes in your code that you are asked to do so.
-    - After performing the required changes, chacke whether you forked copy is up to date with the original copy. If it is not, then press the 'syn fork' option provided in your forked copy.
+    - After performing the required changes, check whether you forked copy is up to date with the original copy. If it is not, then press the 'sync fork' option provided in your forked copy.
     - Pull the new changes to your local repository.
     - Now check whether there is any kind of conflicts in the local code. If it's perfectly working then add all changes, commit and push your code to forked repository.
     - Now open the 'contribute to' option in forked copy and send the pull request to the source repository with required message. 
@@ -52,5 +52,5 @@
 
 
 
-    <i>Happy Coding....:))</i><br>
-    <i>Team IEDC MEC</i>
+    <p>Happy Coding....:))</p><br>
+    <i>Team IEDC MEC ❤️</i>
