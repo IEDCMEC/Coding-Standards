@@ -1,9 +1,9 @@
 # Some important things to be noted while working in IEDC  tech team :
 
 <p float="left">
-  <img width="761" alt="image" src="https://user-images.githubusercontent.com/75477017/188143031-dee759b6-9b72-4821-adf5-3059b2116eac.png">
-  <img width="761" alt="image" src="https://user-images.githubusercontent.com/75477017/188143098-7d2fed7b-5282-454c-9346-621192bc7156.png">
- <img width="761" alt="image" src="https://user-images.githubusercontent.com/75477017/188143164-7dc58098-869f-46cd-bcbb-96d0ff7b840e.png">
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/75477017/188143031-dee759b6-9b72-4821-adf5-3059b2116eac.png">
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/75477017/188143098-7d2fed7b-5282-454c-9346-621192bc7156.png">
+ <img width="200" alt="image" src="https://user-images.githubusercontent.com/75477017/188143164-7dc58098-869f-46cd-bcbb-96d0ff7b840e.png">
 </p>
 
 1. Folder Structure:
